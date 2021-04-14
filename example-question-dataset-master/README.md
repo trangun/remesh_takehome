@@ -1,4 +1,4 @@
-# Example Question Dataset
+# Dataset
 
 The dataset consists of open-ended text responses to a question as well as two different types of "voting" data points. "Voting" is when respondents are presented with other respondents' thoughts and given the opportunity to express their preference for or against them.
 
