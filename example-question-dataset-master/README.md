@@ -44,6 +44,6 @@ The three types of data points in the dataset are:
 
 | Document_No | Dominant_Topic | Topic_Perc_Contrib | Keywords | Text |	topic_id |
 | ------------| -------------- | ------------------ | -------- | ---- | -------- |
-|0	          | 2.0	           | 0.2685             | easy, picture, lot, ability, share, live, weird, family, bug, suggest	It's easy to use and very heavily adopted by other people. | Easy To Use |
-| 1	          | 0.0	           | 0.2715	            | people, easily, post, control, access, update, contact, receive, hate, ememe	Easy access is just about the only thing.	| Easy to Access |
+|0	          | 2.0	           | 0.2685             | easy, picture, lot, ability, share, live, weird, family, bug, suggest |	It's easy to use and very heavily adopted by other people. | Easy To Use |
+| 1	          | 0.0	           | 0.2715	            | people, easily, post, control, access, update, contact, receive, hate, ememe	| Easy access is just about the only thing.	| Easy to Access |
 ...
